@@ -31,4 +31,17 @@ outras causas.
  ![descrição da tabela municipio 1](https://github.com/KayoNascimento/Projeto-AnaliseEmissaoGases/blob/main/img/descri%C3%A7%C3%A3o%20tabela%20municipio%201.png)<br>
  ![descrição da tabela municipio 2](https://github.com/KayoNascimento/Projeto-AnaliseEmissaoGases/blob/main/img/descri%C3%A7%C3%A3o%20tabela%20municipio%202.png)
  
- Os dados utilizados nessa análise foram retirados do https://basedosdados.org/dataset/br-seeg-emissoes?bdm_table=brasil.
+ Os dados utilizados nessa análise foram retirados do https://basedosdados.org/dataset/br-seeg-emissoes?bdm_table=brasil. <br>
+ 
+ ### OBJETIVOS DA ANÁLISE 
+ 1. Analisar a distribuição de emissão e remoção de gases poluentes através dos anos.
+ 2. Observar a diferença na quantidade de emissão com o passar dos anos.
+ 3. Analisar a distribuição de emissão e remoção de gases poluentes por Estados brasileiros.
+ 4. Calcular as emissões médias e máximas de cada ano.
+ 5. Calcular a porcentagem de aumento de emissão de 1970 a 2019.
+ 
+ ####  OBSERVAÇÃO
+ - Quando me refiro a __emissão__ não estou falando de um único gás específico, mas sim de todos os tipos gases poluentes.
+ - E a parte da __remoção__ corresponde a todos os gases que são retirados de circulação
+ 
+ ### 1. Analisar a distribuição de emissão e remoção de gases poluentes através dos anos.
