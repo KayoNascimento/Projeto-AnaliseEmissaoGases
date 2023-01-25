@@ -25,10 +25,10 @@ outras causas.
  
  As que eu utilizei na analise foram a tabela 'brasil' e 'município' <br>
  #### Tabela Brasil
- ![descrição da tabela brasil 1](https://github.com/KayoNascimento/Projeto-AnaliseEmissaoGases/blob/main/descri%C3%A7%C3%A3o%20tabela%20brasil%201.png)<br>
- ![descrição da tabela brasil 2](https://github.com/KayoNascimento/Projeto-AnaliseEmissaoGases/blob/main/descri%C3%A7%C3%A3o%20tabela%20brasil%202.png)<br>
+ ![descrição da tabela brasil 1](https://github.com/KayoNascimento/Projeto-AnaliseEmissaoGases/blob/main/img/descri%C3%A7%C3%A3o%20tabela%20brasil%201.png)<br>
+ ![descrição da tabela brasil 2](https://github.com/KayoNascimento/Projeto-AnaliseEmissaoGases/blob/main/img/descri%C3%A7%C3%A3o%20tabela%20brasil%202.png)<br>
  #### Tabela Município
- ![descrição da tabela municipio 1](https://github.com/KayoNascimento/Projeto-AnaliseEmissaoGases/blob/main/descri%C3%A7%C3%A3o%20tabela%20municipio%201.png)<br>
- ![descrição da tabela municipio 1](https://github.com/KayoNascimento/Projeto-AnaliseEmissaoGases/blob/main/descri%C3%A7%C3%A3o%20tabela%20municipio%202.png)
+ ![descrição da tabela municipio 1](https://github.com/KayoNascimento/Projeto-AnaliseEmissaoGases/blob/main/img/descri%C3%A7%C3%A3o%20tabela%20municipio%201.png)<br>
+ ![descrição da tabela municipio 2](https://github.com/KayoNascimento/Projeto-AnaliseEmissaoGases/blob/main/img/descri%C3%A7%C3%A3o%20tabela%20municipio%202.png)
  
  Os dados utilizados nessa análise foram retirados do https://basedosdados.org/dataset/br-seeg-emissoes?bdm_table=brasil.
