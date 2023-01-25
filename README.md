@@ -45,7 +45,31 @@ outras causas.
  - E a parte da __remoção__ corresponde a todos os gases que são retirados de circulação.
  
  ### 1. Analisar a distribuição de emissão e remoção de gases poluentes através dos anos.
- Essa parte da análise revela a quantidade gases poluentes que foram emitidos e removidos no <br>
+ Essa parte da análise revela a quantidade gases poluentes por toneladas que foram emitidos e removidos no <br>
  ar atráves dos anos. <br>
- ##### CÓDIGO SQL:https://github.com/KayoNascimento/Projeto-AnaliseEmissaoGases/blob/main/Emiss%C3%A3o%20e%20Remo%C3%A7%C3%A3o%20por%20Ano.sql
+ ##### CÓDIGO SQL:https://github.com/KayoNascimento/Projeto-AnaliseEmissaoGases/blob/main/Emiss%C3%A3o%20e%20Remo%C3%A7%C3%A3o%20por%20Ano.sql <BR>
+ ![emissão e remoção por ano](https://github.com/KayoNascimento/Projeto-AnaliseEmissaoGases/blob/main/img/emiss%C3%A3o%20e%20remo%C3%A7%C3%A3o%20por%20ano.png) <br>
+ - O maior pico foi registrado em 2003 chegando emitir __19.200.018.595,70__ de toneladas de gases poluentes.
+ - Percebe-se que até 1989 não estavam contabilizando a quantidade de remoção.   
+ 
+ ### 2. Observar a diferença na quantidade de emissão com o passar dos anos.
+ Utilizando a análise acima como gancho agora mostrarei a diferença na quantidade de emissão. <br>
+ ##### CÓDIGO SQL:https://github.com/KayoNascimento/Projeto-AnaliseEmissaoGases/blob/main/Diferen%C3%A7a%20Emiss%C3%A3o%20por%20ano.sql <BR>
+ ![diferença de emissão](https://github.com/KayoNascimento/Projeto-AnaliseEmissaoGases/blob/main/img/diferen%C3%A7a%20de%20emiss%C3%A3o%20ano%20anterior.png) <br>
+ Se observarmos com atenção pode-se notar um pico no aumento de emissões de 1989 para 1990, ao todo a diferença chega ao total de __8.128.188.451,90__ de toneladas
+ de um ano para outro. E uma das possíveis causas para esse aumento espontâneo pode estar relacionada com: <br>
+ - Mudanças de cálculos 
+ - Modificações nos aparelhos de monitoramento
+ - Inclusão de novas causas e origens, que por consequência, refletiram nos cálculos final.  
+ 
+ ### 3. Analisar a distribuição de emissão e remoção de gases poluentes por Estados brasileiros.
+ Distribuição de emissão e remoção de gases por Estados brasileiros de 1970 a 2019. <br>
+ ##### CÓDIGO SQL:https://github.com/KayoNascimento/Projeto-AnaliseEmissaoGases/blob/main/Emiss%C3%A3o%20e%20Remo%C3%A7%C3%A3o%20por%20Estados.sql <br>
+ ![emissao e remocao por estados](https://github.com/KayoNascimento/Projeto-AnaliseEmissaoGases/blob/main/img/Emissao_Remocao_Gases_Estados%20.png) <br>
+ É notório que o Estado do Pará sai em disparada nas emissões somando __7.012.580.557,70__ de toneladas de gases poluentes. Um dos principais fatores que 
+ mais influenciaram nessa soma foi, a derrubada de florestas seguida da criação de gado. Por outro lado, o Estado do Amazonas contribui removendo __2.223.925.785,00__
+ de toneladas de gases de circulação.
+ 
+ 
+ 
  
