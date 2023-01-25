@@ -42,6 +42,10 @@ outras causas.
  
  ####  OBSERVAÇÃO
  - Quando me refiro a __emissão__ não estou falando de um único gás específico, mas sim de todos os tipos gases poluentes.
- - E a parte da __remoção__ corresponde a todos os gases que são retirados de circulação
+ - E a parte da __remoção__ corresponde a todos os gases que são retirados de circulação.
  
  ### 1. Analisar a distribuição de emissão e remoção de gases poluentes através dos anos.
+ Essa parte da análise revela a quantidade gases poluentes que foram emitidos e removidos no <br>
+ ar atráves dos anos. <br>
+ ##### CÓDIGO SQL:https://github.com/KayoNascimento/Projeto-AnaliseEmissaoGases/blob/main/Emiss%C3%A3o%20e%20Remo%C3%A7%C3%A3o%20por%20Ano.sql
+ 
