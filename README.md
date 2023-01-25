@@ -11,6 +11,11 @@ E o principal causador do aquecimento global é a __emissão de gases poluentes_
 muitas mas as principais seriam a queima de combustíveis fósseis, pecuária, queimada, desmatamento, má gestão de resíduos e diversas
 outras causas.
 
+### TECNOLOGIAS UTILIZADAS
+- BigQuery(Google Cloud)
+- SQL
+- Power BI
+
 ### DESCRIÇÃO DA BASE DE DADOS:
  Esses dados abrangem somente o Brasil cobrindo os anos de 1970 a 2019.<br>
  A base apresenta três tabelas:
@@ -18,9 +23,12 @@ outras causas.
  - uf - 13 colunas e  3.276.750 linhas
  - município -  14 colunas e 14.387.351 linhas
  
- As que eu utilizei na analise foram a tabela 'brasil' e 'município'.<br>
- ![descrição da tabela brasil!]
- 
- 
+ As que eu utilizei na analise foram a tabela 'brasil' e 'município' <br>
+ #### Tabela Brasil
+ ![descrição da tabela brasil 1](https://github.com/KayoNascimento/Projeto-AnaliseEmissaoGases/blob/main/descri%C3%A7%C3%A3o%20tabela%20brasil%201.png)<br>
+ ![descrição da tabela brasil 2](https://github.com/KayoNascimento/Projeto-AnaliseEmissaoGases/blob/main/descri%C3%A7%C3%A3o%20tabela%20brasil%202.png)<br>
+ #### Tabela Município
+ ![descrição da tabela municipio 1](https://github.com/KayoNascimento/Projeto-AnaliseEmissaoGases/blob/main/descri%C3%A7%C3%A3o%20tabela%20municipio%201.png)<br>
+ ![descrição da tabela municipio 1](https://github.com/KayoNascimento/Projeto-AnaliseEmissaoGases/blob/main/descri%C3%A7%C3%A3o%20tabela%20municipio%202.png)
  
  Os dados utilizados nessa análise foram retirados do https://basedosdados.org/dataset/br-seeg-emissoes?bdm_table=brasil.
