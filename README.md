@@ -37,11 +37,11 @@ outras causas.
  1. Analisar a distribuição de emissão e remoção de gases poluentes através dos anos.
  2. Observar a diferença na quantidade de emissão com o passar dos anos.
  3. Analisar a distribuição de emissão e remoção de gases poluentes por Estados brasileiros.
- 4. Calcular as emissões médias e máximas de cada ano.
+ 4. Visualizar as emissões médias e máximas de cada ano.
  5. Calcular a porcentagem de aumento de emissão de 1970 a 2019.
  
  ####  OBSERVAÇÃO
- - Quando me refiro a __emissão__ não estou falando de um único gás específico, mas sim de todos os tipos gases poluentes.
+ - Quando me refiro a __emissão__ não estou falando de um único gás específico, mas sim a todos os tipos de gases poluentes.
  - E a parte da __remoção__ corresponde a todos os gases que são retirados de circulação.
  
  ### 1. Analisar a distribuição de emissão e remoção de gases poluentes através dos anos.
@@ -70,6 +70,28 @@ outras causas.
  mais influenciaram nessa soma foi, a derrubada de florestas seguida da criação de gado. Por outro lado, o Estado do Amazonas contribui removendo __2.223.925.785,00__
  de toneladas de gases de circulação.
  
+ ### 4. Visualizar as emissões médias e máximas de cada ano.
+ ##### CÓDIGO SQL:https://github.com/KayoNascimento/Projeto-AnaliseEmissaoGases/blob/main/Emiss%C3%B5es%20m%C3%A9dias%20e%20m%C3%A1ximas%20por%20ano.sql <BR>
+ ![max e media emissao](https://github.com/KayoNascimento/Projeto-AnaliseEmissaoGases/blob/main/img/Max%20e%20M%C3%A9dia%20Ano.png) <br>
+ 
+ ### 5.  Calcular a porcentagem de aumento de emissão de 1970 a 2019.
+ ##### CÓDIGO SQL:https://github.com/KayoNascimento/Projeto-AnaliseEmissaoGases/blob/main/Porcentagem%20do%20aumento%20de%20emiss%C3%A3o.sql <br>
+ 
+ Depois de realizado a consulta, o resultado que aparece é um aumento de aproximadamente __88%__ nas emissões de 1970 a 2019.
+ 
+ ### CONCLUSÃO
+ Por fim observamos que a liberação dos gases poluentes no Brasil, e na maioria dos países, tende a seguir aumentando sendo que os grandes responsáveis 
+ pela liberação desses gases, são muito importantes nos pilares econômicos. Como a pecuária, o setor de transportes, geração de energia e o setor industrial.  
+ E pensando em maneiras de amenizar essa situação, uma delas seria o incentivo a pesquisas para a sustentabilidade, reciclagem de resíduos, controle do 
+ desmatamento, reflorestamento e energias renováveis. 
  
  
+ ### AUTOR
+ Kayo do Nascimento Nunes
+ ### CONTATO
+ email:kayonunes99@gmail.com
  
+ 
+  
+  
+  
