@@ -60,7 +60,7 @@ outras causas.
  de um ano para outro. E uma das possíveis causas para esse aumento espontâneo pode estar relacionada com: <br>
  - Mudanças de cálculos 
  - Modificações nos aparelhos de monitoramento
- - Inclusão de novas causas e origens, que por consequência, refletiram nos cálculos final.  
+ - Inclusão de novas causas e origens, que por consequência, refletiram nos resultados final.  
  
  ### 3. Analisar a distribuição de emissão e remoção de gases poluentes por Estados brasileiros.
  Distribuição de emissão e remoção de gases por Estados brasileiros de 1970 a 2019. <br>
@@ -73,11 +73,18 @@ outras causas.
  ### 4. Visualizar as emissões médias e máximas de cada ano.
  ##### CÓDIGO SQL:https://github.com/KayoNascimento/Projeto-AnaliseEmissaoGases/blob/main/Emiss%C3%B5es%20m%C3%A9dias%20e%20m%C3%A1ximas%20por%20ano.sql <BR>
  ![max e media emissao](https://github.com/KayoNascimento/Projeto-AnaliseEmissaoGases/blob/main/img/Max%20e%20M%C3%A9dia%20Ano.png) <br>
+ De 1990 até o pico de 2003 a média variou de __1.435.051,0__ toneladas para __2.417.225,10__, o que equivale a um aumento de __68,4%__.
+ Nas máximas o valor foi de __591.600.000__ toneladas para __1.503.000.000__ aumento __154%__. <br>
+ Agora de 2003 até queda de 2010 a média saiu de __2.417.225__ para __1.220.970__ uma redução de __-49%__.Nas máximas o valor foi de 
+ __1.503.000.000__ para __301.600.000__ redução de __-80%__
  
  ### 5.  Calcular a porcentagem de aumento de emissão de 1970 a 2019.
  ##### CÓDIGO SQL:https://github.com/KayoNascimento/Projeto-AnaliseEmissaoGases/blob/main/Porcentagem%20do%20aumento%20de%20emiss%C3%A3o.sql <br>
  
- Depois de realizado a consulta, o resultado que aparece é um aumento de aproximadamente __88%__ nas emissões de 1970 a 2019.
+ Depois de realizado a consulta, o resultado que aparece é um aumento de aproximadamente __88%__ nas emissões totais de 1970 a 2019.
+ 
+ ### RELATÓRIO COMPLETO
+ ![relatório completo](https://github.com/KayoNascimento/Projeto-AnaliseEmissaoGases/blob/main/img/relat%C3%B3rio%20completo.png)
  
  ### CONCLUSÃO
  Por fim observamos que a liberação dos gases poluentes no Brasil, e na maioria dos países, tende a seguir aumentando sendo que os grandes responsáveis 
